@@ -239,7 +239,7 @@
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  max-width: 350px;
+  max-width: 420px;
   margin-bottom: 116px;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
@@ -1323,7 +1323,7 @@
   }
 
   .pillis-wrap {
-    max-width: 430px;
+    max-width: 520px;
   }
 
   .pills {
@@ -1936,6 +1936,7 @@
   }
 
   .pills {
+    margin-right: 15px;
     margin-bottom: 12px;
   }
 
